@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shahabaz-Bagwan
+- 👀 I’m interested in Linux, C++, Python, Shell, VIM and in consumer electronics
+- 💞️ I’m looking to collaborate on minimal resource useage software
