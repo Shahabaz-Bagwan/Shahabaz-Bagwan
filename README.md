@@ -2,8 +2,6 @@
 - 👀 I’m interested in Linux, C++, Python, Shell, VIM and in consumer electronics
 - 💞️ I’m looking to collaborate on minimal resource usage software
 
-![about](https://github-readme-stats.vercel.app/api?username=Shahabaz-Bagwan&show_icons=true&theme=dracula)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahabaz-Bagwan&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://github.com/Shahabaz-Bagwan)  
     
 <a href="https://github.com/Shahabaz-Bagwan">
